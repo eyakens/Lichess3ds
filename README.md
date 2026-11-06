@@ -9,15 +9,18 @@ AI was used to create this homebrew
 <img width="320" height="239" alt="image" src="https://github.com/user-attachments/assets/5897386b-a635-42a9-ba02-13c1f5ee6720" />
 <img width="320" height="239" alt="image" src="https://github.com/user-attachments/assets/14918ccd-6e26-4a6b-ade6-fd2749ad4482" />
 
-Instruction
+## Instruction
 
-3dsx
+- **3dsx**
 1. Put 3dsx file into sdmc:\3ds
 2. Launch Lichess3ds from homebrew launcher
 
-cia
+- **cia**
 1. Put cia into sdmc:\cias
 2. Use fbi or 3dsDL to download it
+
+<img width="500" height="500" alt="qrcode" src="https://github.com/user-attachments/assets/e3ae2fe8-453d-40a5-a840-ba1276bf0c69" />
+
 
 ## Credits
 
